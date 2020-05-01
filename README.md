@@ -29,5 +29,9 @@ Other Miscellenious java files implemented:
 2. ChatBot
 Implemented a small chatbot. After running it against another chatbot, it creates an interesting chat with another bot. One dialogue per bot and repeats it alterntively and so on, this creates an interetsing/funny converstaion between bots.
 
+3. Farmer-Fox-Chicken-Grain problem/Game
+Implemented the famous game of Famer fox chicken grain where each of them have to cross a river but on special conditions. 
+Farmer can carry one thing at a time, Fox-Chicken cannot be left alone, Chicken-Grain cannot be left alone at all times.
+
 
 
