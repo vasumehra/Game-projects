@@ -33,5 +33,7 @@ Implemented a small chatbot. After running it against another chatbot, it create
 Implemented the famous game of Famer fox chicken grain where each of them have to cross a river but on special conditions. 
 Farmer can carry one thing at a time, Fox-Chicken cannot be left alone, Chicken-Grain cannot be left alone at all times.
 
-
+4. Baroque chess
+Implemented a baroque chess game. It has completly different rules and moves from a normal chess game, the rules for baroque chess are way more hard and complex than a normal chess game rules. This was implemented by a 2 person team, I and my partner. I worked on zobrist hashing and various Artificial intelligence algorithms like IDDFS. The main file with the implementation is :
+--> Baroque chess vasu master
 
