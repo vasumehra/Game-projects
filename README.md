@@ -37,3 +37,11 @@ Farmer can carry one thing at a time, Fox-Chicken cannot be left alone, Chicken-
 Implemented a baroque chess game. It has completly different rules and moves from a normal chess game, the rules for baroque chess are way more hard and complex than a normal chess game rules. This was implemented by a 2 person team, I and my partner. I worked on zobrist hashing and various Artificial intelligence algorithms like IDDFS. The main file with the implementation is :
 --> Baroque chess vasu master
 
+5. Search Engine
+I implemented and mimicked google's search engine while implementing two algorithms, TF-IDF , Page Rank 
+I used common data structures from the ones I implemented in Maze-Solvers, these are, ArrayDictionary, ChainedHashDictionary, ChainedHashSet, DoubleLinkedList, ArrayHeap.
+I implemented a method called topKSort, this method is responsible for returning the top k elements from a list containing n comparable elements. Then, I implemented SearchEngine.search.analyzers.TfIdfAnalyzer.java which is the TF-IDF algorithm.
+Then, I implemented Page Rank algorithm in SearchEngine.search.analyzers.PageRankAnalyzer.java
+
+
+
